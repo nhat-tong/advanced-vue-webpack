@@ -1,8 +1,8 @@
-import Vue from "vue";
+import Vue from 'vue';
 
 const app = new Vue({
   data: {
-    hello: "hi tata23"
+    hello: 'hi Nhat Tong'
   },
   template: '<div id="app">{{hello}}</div>'
 });
